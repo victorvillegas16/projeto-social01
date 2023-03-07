@@ -1,2 +1,2 @@
-# projeto-social01
- projeto de redes sociais
+# projeto-social
+ projeto de pag de redes socias
